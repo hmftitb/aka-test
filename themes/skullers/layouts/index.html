@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="id" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <p>Well hello there! Here's a list of all the pages in this website:</p>
+    {{ range first 10 .Data.Pages }}
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    {{ end }}
+  </body>
+</html>
