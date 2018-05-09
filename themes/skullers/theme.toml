@@ -2,9 +2,9 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 name = "Skullers"
-license = ""
-licenselink = ""
-description = ""
+license = "GPL-3.0-or-later"
+licenselink = "https://www.gnu.org/licenses/gpl-3.0.txt"
+description = "The theme for academic repositories."
 homepage = ""
 tags = []
 features = []
@@ -12,4 +12,4 @@ min_version = "0.38"
 
 [author]
   name = "reyhanra"
-  homepage = ""
+  homepage = "reyhanra.github.io"
