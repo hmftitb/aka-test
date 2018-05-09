@@ -1,3 +1,4 @@
-+++
-title = "Semester 4"
-+++
+---
+title: Semester 4
+layout: semester
+---

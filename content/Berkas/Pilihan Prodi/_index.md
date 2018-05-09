@@ -1,3 +1,4 @@
-+++
-title = "Pilihan Prodi"
-+++
+---
+title: Pilihan Prodi
+layout: semester
+---
