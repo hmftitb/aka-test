@@ -1,3 +1,0 @@
-+++
-title = "Semester 6"
-+++
