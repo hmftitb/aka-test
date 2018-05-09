@@ -1,0 +1,42 @@
++++
+Categories = []
+Description = ""
+Tags = []
+date = "2018-04-29T12:11:00+07:00"
+title = "first"
+
++++
+my first post
+
+*emph*
+
+_also emph_
+
+**bold**
+
+not_emph
+
+this_is not_emph
+
+$$
+    \int^2_1 noproblem
+
+    \int_1 yeah
+$$
+
+|a|b|
+|---|---|
+|c|d|
+
+> Blockquote
+> second line
+
+---
+
+[Test](https://www.google.com)
+
+1. List
+2. List
+
+    Paragraph
+3. List
