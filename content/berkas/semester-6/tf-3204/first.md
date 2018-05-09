@@ -4,8 +4,10 @@ Description = ""
 Tags = []
 date = "2018-04-29T12:11:00+07:00"
 title = "first"
+markup = "mmark"
 
 +++
+
 my first post
 
 *emph*
@@ -19,9 +21,7 @@ not_emph
 this_is not_emph
 
 $$
-    \int^2_1 noproblem
-
-    \int_1 yeah
+  \int^2_1 noproblem
 $$
 
 |a|b|
