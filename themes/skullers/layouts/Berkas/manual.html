@@ -21,7 +21,7 @@
   </script>
 </head>
 <body>
-  {{ partial "header" (dict "Title" .Title) }}
+  {{ partial "header" (dict "Title" "Back to Home") }}
 
   <article>
     <header>
@@ -30,7 +30,5 @@
     <div style="color:grey; font-size:16px;">{{ dateFormat "January 2006" .Date }}</div>
     {{.Content}}
   </article>
-
-  {{ partial "footer" . }}
 </body>
 </html>
